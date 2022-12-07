@@ -13,7 +13,8 @@ A curated list of [Livewire](https://github.com/livewire/livewire) resources.
 * [Podcasts](#podcasts)
 * [Videos & Screencasts](#videos--screencasts)
 * [Examples](#examples)
-* [Plugins](#plugins)
+* [Packeges & Plugins](#packages--plugins)
+* [Snippets](#snippets)
 * [Tooling](#tooling)
 * [Other](#other)
 
@@ -60,6 +61,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Nova Packages](https://github.com/tightenco/novapackages) (full app)
 * [Dependant Select](https://github.com/asantibanez/livewire-dependant-select-demo)
 * [To-do List](https://github.com/aleksandertabor/todo)
+* [Base Admin Panel](https://github.com/alighasemzadeh/bap)
 
 ## Packages / Plugins
 
@@ -77,13 +79,18 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [TALL Forms](https://github.com/tanthammar/tall-forms)
 * [Livewire Datatables](https://livewire-datatables.com/)
 * [Laravel Views](https://github.com/Gustavinho/laravel-views) (Datatables with Livewire)
+* [WireUI](https://livewire-wireui.com/) (Components built with alpine.js and tailwind)
+* [TALL CRUD Generator](https://github.com/ascsoftw/tall-crud-generator)
+* [Livewire Megaphone](https://github.com/mikebarlow/megaphone) ("Bell Icon Notifications" powered by Laravel notifications system)
+* [Livewire PowerGrid](https://github.com/Power-Components/livewire-powergrid) (Datatables)
+* [Livewire Editor.js](https://github.com/maxeckel/livewire-editorjs)
 
 ## Snippets
 * [Trigger update methods for nested values](https://gist.github.com/imliam/3709ceafb0bd60ea8026b5c936f591ac) (Trait)
 
 ## Tooling
 
-* [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lakuapik.livewire-goto) (VSCode Extension)
+* [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lennardv.livewire-goto-updated) (VSCode Extension)
 * [Livewire Docs](https://marketplace.visualstudio.com/items?itemName=austenc.livewire-docs) (VSCode Extension)
 * [Alfred Livewire Docs](https://github.com/AlexMartinFR/alfred-livewire-docs) (Alfred Workflow)
 * [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) (supports Livewire)
