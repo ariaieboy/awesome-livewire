@@ -65,6 +65,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 ## Packages / Plugins
 
+* [Filament Admin Panel](https://github.com/filamentphp/filament) (An Admin panel built with TALL stack)
 * [Livewire VueJS Support](https://github.com/livewire/vue)
 * [Livewire Turbolinks Support](https://github.com/livewire/turbolinks) (for v2)
 * [Livewire Sortable](https://github.com/livewire/sortable)
@@ -84,9 +85,19 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Livewire Megaphone](https://github.com/mikebarlow/megaphone) ("Bell Icon Notifications" powered by Laravel notifications system)
 * [Livewire PowerGrid](https://github.com/Power-Components/livewire-powergrid) (Datatables)
 * [Livewire Editor.js](https://github.com/maxeckel/livewire-editorjs)
+* [Livewire Datatables](https://github.com/MedicOneSystems/livewire-datatables)
+* [Livewire Modal](https://github.com/wire-elements/modal) (Livewire component that provides you with a modal)
+* [Livewire Spotlight](https://github.com/wire-elements/spotlight)
+* [Livewire Form Components](https://github.com/protonemedia/laravel-form-components)
+* [Livewire Charts](https://github.com/asantibanez/livewire-charts) (Neat Livewire Charts for your Laravel projects)
+* [Laravel EasyPanel](https://github.com/rezaamini-ir/laravel-easypanel) (admin panel creator based on Livewire)
+* [Laravel Shopper](https://github.com/shopperlabs/framework) (An eCommerce administration built with Laravel Livewire)
+* [Livewire Alert](https://github.com/jantinnerezo/livewire-alert) (SweetAlert2 wrapper for Livewire)
+* [Livewire Toasts](https://github.com/usernotnull/tall-toasts)
 
 ## Snippets
 * [Trigger update methods for nested values](https://gist.github.com/imliam/3709ceafb0bd60ea8026b5c936f591ac) (Trait)
+* [Livewire Best Practices](https://github.com/michael-rubel/livewire-best-practices)
 
 ## Tooling
 
