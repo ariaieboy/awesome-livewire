@@ -55,6 +55,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [How to build a contact form with Laravel Livewire](https://www.youtube.com/watch?v=Qljh8w5YX44) (Stefen Bauer)
 * [Real-time Livewire w/ Laravel Echo & Pusher](https://calebporzio.com/video-realtime-livewire-w-laravel-echo-pusher) (Caleb Porzio)
 * [Live-Updating Status Page with Livewire](https://calebporzio.com/live-updating-status-page-with-livewire) (Caleb Porzio)
+* [The Future of Livewire V3](https://www.youtube.com/watch?v=f4QShF42c6E&t=6014s) (Caleb Porzio)
 
 ## Examples
 
