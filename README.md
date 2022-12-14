@@ -95,6 +95,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Laravel Shopper](https://github.com/shopperlabs/framework) (An eCommerce administration built with Laravel Livewire)
 * [Livewire Alert](https://github.com/jantinnerezo/livewire-alert) (SweetAlert2 wrapper for Livewire)
 * [Livewire Toasts](https://github.com/usernotnull/tall-toasts)
+* [Livewire Form Component](https://github.com/rawilk/laravel-form-components) (Form components built for Tailwind & Livewire.)
 
 ## Snippets
 * [Trigger update methods for nested values](https://gist.github.com/imliam/3709ceafb0bd60ea8026b5c936f591ac) (Trait)
