@@ -67,6 +67,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 ## Packages / Plugins
 
 * [Filament Admin Panel](https://github.com/filamentphp/filament) (An Admin panel built with TALL stack)
+* [Livewire admin theme](https://github.com/dcblogdev/laravel-admintw)
 * [Livewire VueJS Support](https://github.com/livewire/vue)
 * [Livewire Turbolinks Support](https://github.com/livewire/turbolinks) (for v2)
 * [Livewire Sortable](https://github.com/livewire/sortable)
